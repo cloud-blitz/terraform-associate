@@ -8,4 +8,4 @@ Once multiple people are collaborating on Terraform configuration, new steps mus
 
 ## Master Terraform by taking a Hands-On Approach
 
-Check out the 70+ labs that follow the HashiCorp Certified: Terraform Associate certification. Learn more at https://www.udemy.com/course/terraform-hands-on-labs
+Check out the 70+ labs that follow the HashiCorp Certified: Terraform Associate certification. Learn more at https://cloudblitz.in
